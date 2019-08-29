@@ -5,3 +5,6 @@ function links(parent, args, context) {
   module.exports = {
     links,
   }
+
+  // This Prisma client instance effectively lets you access your database through the Prisma API. 
+  // It exposes a number of methods that let you perform CRUD operations for your models.
